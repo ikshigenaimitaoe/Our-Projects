@@ -1,0 +1,1 @@
+from streamlit.cli import main
