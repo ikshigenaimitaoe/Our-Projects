@@ -14,9 +14,8 @@ with st.sidebar:
     st.title("LLM Research Paper Chat")
     st.markdown('''
         ## About
-        This app is an LLM-Powered chatbot built using LangChain:
-        - [Streamlit](https://streamlit.io/)
-        - [YouTube](https://youtube.com/)
+ Introducing the Ultimate LLM-Powered Chatbot: Your Research Assistant Redefined! 🚀
+Are you ready to revolutionize the way you interact with research papers? Say hello to the chatbot, seamlessly powered by LangChain and the game-changing Gemini-AI API! This isn't just another chatbot; it’s your personal research assistant, designed to supercharge your understanding and engagement with academic literature like never before.
     ''')
     
     # Add vertical space
